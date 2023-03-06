@@ -1,6 +1,6 @@
 Landmark
-Georgey 
-Moses
+Hoya
+Georgey
 Maxi
 Manager
 My group 
